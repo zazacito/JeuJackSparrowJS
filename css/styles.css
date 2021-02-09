@@ -1,0 +1,15 @@
+h1
+{
+    color:white;
+    font-family: "KeepOnTruckin";
+}
+
+@font-face{
+    font-family:"KeepOnTruckin";
+    src: url("../assets/fonts/KeepOnTruckin.ttf");
+}
+
+#myCanvas{
+    border: 1px solid black;
+    background: url("../assets/images/background.jpg");
+}
